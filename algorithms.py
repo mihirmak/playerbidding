@@ -118,10 +118,8 @@ print("Deep NN: ", score)
 #results = cross_val_score(estimator, X, Y, cv=kfold)
 
 '''
-(venv) hemal@linux:~/Workspaces/ML-Workspace/FCI_Project$ python algorithms.py 
 Using TensorFlow backend.
 linear regression:  74.72006429903175
 MLPregressor:  73.53082120442174
 SVMR:  80.1913159421847
 Deep NN:  74.00393574611624
-(venv) hemal@linux:~/Workspaces/ML-Workspace/FCI_Project$
